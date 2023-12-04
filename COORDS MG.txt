@@ -1,2 +1,0 @@
-14662   64   -940  Overworld Portal
-1833   60   -1171 Nether Portal

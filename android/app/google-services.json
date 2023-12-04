@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "755379200261",
+    "project_id": "siklab-project",
+    "storage_bucket": "siklab-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755379200261:android:a512a7b9539dbd832a576c",
+        "android_client_info": {
+          "package_name": "com.example.siklabproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755379200261-kn5ifas5mfh4h98i1keh02r61upr8ope.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siklabproject",
+            "certificate_hash": "532b0748c81c9758fd6217319f090b7a1869163a"
+          }
+        },
+        {
+          "client_id": "755379200261-kidad9bdk56b4uqr4f1a45gu7ahs4n4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChj3Y8h6QTeZowpMOl2c9Y2iAZQDSJf9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755379200261-kidad9bdk56b4uqr4f1a45gu7ahs4n4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755379200261-uf8vh591j7inctvjjfu7fd3j7djtdbht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siklabproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
